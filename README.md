@@ -2,8 +2,7 @@
  
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Software+Developer;Problem+Solver;Data+Analyst" alt="Typing Animation" /> </p>
 
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%7C+Software+Developer;Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%7C+Software+Developer;Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p><p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXoyMnE4dmlpOWgwb3JrNDNlbDU1ODI0YXJ1amY2bjV2NnY3aHgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saQhLi7IeCs0/giphy.gif" width="300" alt="Coding Animation"> </p>
 ---
 
 ## Data Science Enthusiast & Software Developer
