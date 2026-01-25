@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Udhayadharshini!
  
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Software+Developer;Problem+Solver;Data+Analyst" alt="Typing Animation" /> </p>
+
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%7C+Software+Developer;Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p>
 ---
 
 ## Data Science Enthusiast & Software Developer
