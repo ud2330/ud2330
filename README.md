@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Udhayadharshini!
- 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Software+Developer;Problem+Solver;Data+Analyst" alt="Typing Animation" /> </p>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%7C+Software+Developer;Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p><!-- You can replace the GIF URL below with your preferred one --><p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"> </p>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%7C+Software+Developer;Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p><!-- You can replace the GIF URL below with your preferred one --><p align="center"> 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="400" alt="Developer Animation">
 </p>
