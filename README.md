@@ -22,7 +22,7 @@
 
 ---
 
-##⚙️ Technical Expertise
+## ⚙️ Technical Expertise
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-##📲 Contact
+## 📲 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhayadharshini-n-ab0560294/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayadharshini34@gmail.com)
