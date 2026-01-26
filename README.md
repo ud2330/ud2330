@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Udhayadharshini!
+# Udhayadharshini N
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p><!-- You can replace the GIF URL below with your preferred one --><p align="center"> 
-<p align="center">
-
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG">
+</div>
 
 <br>
 
@@ -10,11 +10,15 @@
   <img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300">
 </div>
 
+<div style="max-width: 650px;">
+
 Passionate about solving real-world problems through logical thinking, analytical reasoning, and practical implementation. With a strong interest in Data Science and Software Development, I focus on solving real-world problems through logical thinking, analytical reasoning, and practical implementation of concepts through hands-on work.
 
 My journey has been shaped through project-based learning and practical implementation, where I concentrate on understanding problems deeply and refining solutions through iteration. I strongly believe that real learning happens when concepts are applied, tested, and improved over time.
 
 I thrive in environments that encourage learning, adaptability, and thoughtful execution.
+
+</div>
 
 <br clear="both">
 
@@ -39,7 +43,13 @@ I thrive in environments that encourage learning, adaptability, and thoughtful e
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-
+### Core Competencies
+- Problem Solving and Analytical Thinking
+- Data Structures and Algorithms
+- Database Management Systems
+- Software Development Methodologies
+- Team Collaboration and Communication
+- Adaptability and Continuous Learning
 
 ---
 
