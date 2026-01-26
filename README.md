@@ -1,7 +1,5 @@
 # Udhayadharshini N
 
-## Data Science Developer & Software Engineer
-
 <div align="center">
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision)
 </div>
