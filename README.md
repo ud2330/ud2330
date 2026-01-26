@@ -1,38 +1,26 @@
-<div align="center">
-
 # Udhayadharshini N
 
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision)
-
-</div>
-
-<br>
+## Data Science Developer & Software Engineer
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="400" alt="Developer Animation">
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision)
 </div>
 
 <br>
+
+<div align="right" style="float: right; margin-left: 30px; margin-bottom: 20px;">
+  <img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300" alt="Developer Animation">
+</div>
+
+<div style="max-width: 700px;">
 
 ## Professional Profile
 
-I am a Data Science student at Coimbatore Institute of Technology pursuing M.Sc. Data Science (5-Years Integrated) with a CGPA of 8.34. My academic and professional journey focuses on transforming data into actionable insights and developing software solutions that address real-world challenges through logical thinking, analytical reasoning, and practical implementation.
+Passionate about solving real-world problems through logical thinking, analytical reasoning, and practical implementation. With a strong interest in Data Science and Software Development, I focus on solving real-world problems through logical thinking, analytical reasoning, and practical implementation of concepts through hands-on work.
 
-### Current Focus Areas
-- Data Science and Machine Learning applications
-- Full-stack software development
-- Data analytics and visualization
-- Problem-solving through programming
+My journey has been shaped through project-based learning and practical implementation, where I concentrate on understanding problems deeply and refining solutions through iteration. I strongly believe that real learning happens when concepts are applied, tested, and improved over time.
 
-### Continuous Learning
-- Advanced data analytics techniques
-- Machine Learning algorithms and implementation
-- Modern web development frameworks
-- Cloud computing and deployment strategies
-
-### Professional Philosophy
-Real learning happens when concepts are applied, tested, and improved over time. I aim to build solutions that are not only technically sound but also meaningful and reliable in real-world scenarios.
+I thrive in environments that encourage learning, adaptability, and thoughtful execution. With a disciplined mindset and a willingness to explore new technologies, I aim to build solutions that are not only technically sound but also meaningful and reliable in real-world scenarios.
 
 ---
 
@@ -63,27 +51,25 @@ Real learning happens when concepts are applied, tested, and improved over time.
 - Team Collaboration and Communication
 - Adaptability and Continuous Learning
 
+</div>
+
+<div style="clear: both;"></div>
+
+<br>
+
 ---
 
 ## Contact
 
-### LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhayadharshini-n-ab0560294/)
-
-### Email
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayadharshini34@gmail.com)
-
----
-
-## Professional Approach
-
-I thrive in environments that encourage learning, adaptability, and thoughtful execution. With a disciplined mindset and a willingness to explore new technologies, I focus on understanding problems deeply and refining solutions through iteration. My journey has been shaped through project-based learning and practical implementation, where I concentrate on creating reliable and efficient solutions.
-
-Through hands-on work and continuous improvement, I aim to contribute meaningfully to data-driven decision-making processes and software development initiatives that make a tangible difference in real-world applications.
-
----
 <div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhayadharshini-n-ab0560294/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayadharshini34@gmail.com)
+</div>
 
+<br>
+
+---
+
+<div align="center">
 *Data Science | Software Development | Problem Solving | Continuous Learning*
-
 </div>
