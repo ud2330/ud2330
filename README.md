@@ -1,6 +1,6 @@
 # Udhayadharshini N
 
-
+## Data Science Developer & Software Engineer
 
 <div align="center">
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision)
@@ -8,19 +8,17 @@
 
 <br>
 
-<div align="right" style="float: right; margin-left: 30px; margin-bottom: 20px;">
-  <img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300" alt="Developer Animation">
+<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
+  <img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300">
 </div>
-
-<div style="max-width: 700px;">
-
-## Profile
 
 Passionate about solving real-world problems through logical thinking, analytical reasoning, and practical implementation. With a strong interest in Data Science and Software Development, I focus on solving real-world problems through logical thinking, analytical reasoning, and practical implementation of concepts through hands-on work.
 
 My journey has been shaped through project-based learning and practical implementation, where I concentrate on understanding problems deeply and refining solutions through iteration. I strongly believe that real learning happens when concepts are applied, tested, and improved over time.
 
-I thrive in environments that encourage learning, adaptability, and thoughtful execution. With a disciplined mindset and a willingness to explore new technologies, I aim to build solutions that are not only technically sound but also meaningful and reliable in real-world scenarios.
+I thrive in environments that encourage learning, adaptability, and thoughtful execution.
+
+<br clear="both">
 
 ---
 
@@ -43,33 +41,17 @@ I thrive in environments that encourage learning, adaptability, and thoughtful e
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-### Core Competencies
-- Problem Solving and Analytical Thinking
-- Data Structures and Algorithms
-- Database Management Systems
-- Software Development Methodologies
-- Team Collaboration and Communication
-- Adaptability and Continuous Learning
 
-</div>
-
-<div style="clear: both;"></div>
-
-<br>
 
 ---
 
 ## Contact
 
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhayadharshini-n-ab0560294/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayadharshini34@gmail.com)
-</div>
-
-<br>
 
 ---
 
 <div align="center">
-*Data Science | Software Development | Problem Solving | Continuous Learning*
+Data Science | Software Development | Problem Solving | Continuous Learning
 </div>
