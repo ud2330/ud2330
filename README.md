@@ -1,24 +1,31 @@
 # Udhayadharshini N
 
+## Data Science Developer & Software Engineer
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision">
 </div>
 
 <br>
 
-<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
-  <img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300">
-</div>
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-<div style="max-width: 650px;">
+### About Me
 
 Passionate about solving real-world problems through logical thinking, analytical reasoning, and practical implementation. With a strong interest in Data Science and Software Development, I focus on solving real-world problems through logical thinking, analytical reasoning, and practical implementation of concepts through hands-on work.
 
 My journey has been shaped through project-based learning and practical implementation, where I concentrate on understanding problems deeply and refining solutions through iteration. I strongly believe that real learning happens when concepts are applied, tested, and improved over time.
 
-</div>
+I thrive in environments that encourage learning, adaptability, and thoughtful execution.
 
-<br clear="both">
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -29,7 +36,7 @@ My journey has been shaped through project-based learning and practical implemen
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
