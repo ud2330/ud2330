@@ -1,7 +1,5 @@
 # Udhayadharshini N
 
-## Data Science Developer & Software Engineer
-
 <div align="center">
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision)
 </div>
@@ -14,7 +12,7 @@
 
 <div style="max-width: 700px;">
 
-## Professional Profile
+## Profile
 
 Passionate about solving real-world problems through logical thinking, analytical reasoning, and practical implementation. With a strong interest in Data Science and Software Development, I focus on solving real-world problems through logical thinking, analytical reasoning, and practical implementation of concepts through hands-on work.
 
@@ -31,7 +29,6 @@ I thrive in environments that encourage learning, adaptability, and thoughtful e
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
