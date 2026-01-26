@@ -50,5 +50,6 @@
 ---
 
 <div align="center">
-### 🚀 *Turning data into insights, and ideas into reality* 🚀
+
+  🚀 Turning data into insights, and ideas into reality 🚀
 </div>
