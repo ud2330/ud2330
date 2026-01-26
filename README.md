@@ -29,7 +29,7 @@ My journey has been shaped through project-based learning and practical implemen
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -41,13 +41,6 @@ My journey has been shaped through project-based learning and practical implemen
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-### Core Competencies
-- Problem Solving and Analytical Thinking
-- Data Structures and Algorithms
-- Database Management Systems
-- Software Development Methodologies
-- Team Collaboration and Communication
-- Adaptability and Continuous Learning
 
 ---
 
