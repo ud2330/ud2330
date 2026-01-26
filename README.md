@@ -7,9 +7,9 @@
 <tr>
 <td width="65%">
 
-**Passionate about solving real-world problems through logical thinking, analytical reasoning, and practical implementation. With a strong interest in Data Science and Software Development, I focus on solving real-world problems through logical thinking, analytical reasoning, and practical implementation of concepts through hands-on work.**
+**Currently pursuing a Master’s in Data Science at Coimbatore Institute of Technology, with a strong interest in understanding how data-driven systems support real-world decision-making. Drawn to observing how systems make. decisions, optimize processes, and adapt based on patterns and usage.**
 
-**My journey has been shaped through project-based learning and practical implementation, where I concentrate on understanding problems deeply and refining solutions through iteration. I strongly believe that real learning happens when concepts are applied, tested, and improved over time.**
+**Engages in real-world projects to explore problems in depth, analyze data critically, and refine solutions through careful experimentation and consistent practice. Continuously seeks to expand technical expertise and apply knowledge to develop solutions that deliver measurable impact.**
 
 
 </td>
