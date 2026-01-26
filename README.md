@@ -8,7 +8,7 @@
 <tr>
 <td width="65%">
 
-**About Me**
+## About Me
 
 **Currently pursuing a Master’s in Data Science at Coimbatore Institute of Technology, with a strong interest in understanding how data-driven systems support real-world decision-making. Drawn to observing how systems make decisions, optimize processes, and adapt based on patterns and usage.**
 
