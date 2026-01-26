@@ -7,7 +7,7 @@
 <tr>
 <td width="65%">
 
-**Currently pursuing a Master’s in Data Science at Coimbatore Institute of Technology, with a strong interest in understanding how data-driven systems support real-world decision-making. Drawn to observing how systems make. decisions, optimize processes, and adapt based on patterns and usage.**
+**Currently pursuing a Master’s in Data Science at Coimbatore Institute of Technology, with a strong interest in understanding how data-driven systems support real-world decision-making. Drawn to observing how systems make decisions, optimize processes, and adapt based on patterns and usage.**
 
 **Engages in real-world projects to explore problems in depth, analyze data critically, and refine solutions through careful experimentation and consistent practice. Continuously seeks to expand technical expertise and apply knowledge to develop solutions that deliver measurable impact.**
 
