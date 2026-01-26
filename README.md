@@ -14,7 +14,7 @@
 
 </td>
 <td width="35%" align="center">
-<img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="300">
+<img src="https://img.itch.zone/aW1nLzQ2OTIwNTYuZ2lm/original/SbyK6b.gif" width="260">
 </td>
 </tr>
 </table>
