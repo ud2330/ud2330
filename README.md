@@ -1,4 +1,4 @@
-# Udhayadharshini N
+# 👋 Hi, I'm Udhayadharshini!
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Data+into+Actionable+Insights;Building+Solutions+with+Logic+%26+Precision" alt="Typing SVG" /> </p><!-- You can replace the GIF URL below with your preferred one --><p align="center"> 
 <p align="center">
