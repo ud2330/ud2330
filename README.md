@@ -16,8 +16,6 @@ Passionate about solving real-world problems through logical thinking, analytica
 
 My journey has been shaped through project-based learning and practical implementation, where I concentrate on understanding problems deeply and refining solutions through iteration. I strongly believe that real learning happens when concepts are applied, tested, and improved over time.
 
-I thrive in environments that encourage learning, adaptability, and thoughtful execution.
-
 </div>
 
 <br clear="both">
