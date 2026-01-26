@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-Data Science | Software Development | Problem Solving | Continuous Learning
+### 🚀 *Turning data into insights, and ideas into reality* 🚀
 </div>
