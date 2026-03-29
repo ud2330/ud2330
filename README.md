@@ -50,9 +50,10 @@
 
 ## 🔗 Quick Links
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhayadharshini-n-ab0560294/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayadharshini34@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=white)]( https://udhayadharshini-portfolio.onrender.com/)
+
 
 ---
 
